@@ -111,7 +111,7 @@ body {
     color: red;
     background-color: transparent;
     text-decoration: none;
-    position: center;
+    position: relative;
     }
     a:visited {
       text-decoration: none;

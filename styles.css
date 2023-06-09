@@ -106,8 +106,24 @@ body {
   input:focus {
     outline: none !important;
   }
+  {
   a:link {
     color: red;
     background-color: transparent;
-    text-decoration: none;}
+    text-decoration: none;
+    position: center;
+    }
+    a:visited {
+      text-decoration: none;
+    }
+    
+    a:hover {
+      text-decoration: underline;
+    }
+    
+    a:active {
+      text-decoration: underline;
+    }
+    
+  }
   

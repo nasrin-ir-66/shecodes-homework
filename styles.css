@@ -126,4 +126,8 @@ body {
     }
     
   }
-  
+  link.static {
+    position: static;
+    border: 30px solid #5a17c5;
+    left: 30px;
+  }

@@ -106,4 +106,8 @@ body {
   input:focus {
     outline: none !important;
   }
+  a:link {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;}
   

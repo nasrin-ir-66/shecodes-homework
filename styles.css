@@ -108,9 +108,9 @@ body {
   }
   
   .link {
-    text-align: right;
+    text-align: center;
     position: relative;
-    text-decoration: none;
+    text-decoration-line: none;
     }
     
 

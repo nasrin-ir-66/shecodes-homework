@@ -110,17 +110,10 @@ body {
   a:link {
     text-align: center;
     margin: 15px;
-    }
-    a:visited {
-      text-decoration: none;
-    }
-    
-    a:hover {
-      text-decoration: none;
-    }
-    
-    a:active {
-      text-decoration: none;
+    position: relative;
+    bottom: 30;
+    width: 100%;
+    min-height: 100%;
     }
     
   }

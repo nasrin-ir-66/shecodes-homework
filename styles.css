@@ -107,7 +107,7 @@ body {
     outline: none !important;
   }
   {
-  a:link {
+  .link {
     text-align: right;
     position: relative;
     text-decoration: none;

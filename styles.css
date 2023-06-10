@@ -108,26 +108,20 @@ body {
   }
   {
   a:link {
-    color: red;
-    background-color: transparent;
-    text-decoration: none;
-    position: relative;
+    text-align: center;
+    margin: 15px;
     }
     a:visited {
       text-decoration: none;
     }
     
     a:hover {
-      text-decoration: underline;
+      text-decoration: none;
     }
     
     a:active {
-      text-decoration: underline;
+      text-decoration: none;
     }
     
   }
-  link.static {
-    position: static;
-    border: 30px solid #5a17c5;
-    left: 30px;
-  }
+  
